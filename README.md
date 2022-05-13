@@ -1,0 +1,2 @@
+# Ex2DiferencaTabelaVerdade
+Ex2DiferencaTabelaVerdade
